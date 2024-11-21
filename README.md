@@ -26,10 +26,7 @@ MoreStuff offers a variety of API responses designed to boost developers' produc
 
 ### 🔐 Encryption Key Generator
 Generate secure encryption keys with customizable lengths and formats.  
-**Usage Example:**  
-```url
-[http://yourdomain.com/encryption-key-generator?length=32&type=hex](https://morestuff.online/public/key-generator?length=16&type=base64)
-```
+
 
 ### 👤 Dummy API Generator
 Easily generate user-related data for testing purposes.  
