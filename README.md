@@ -1,4 +1,3 @@
-Here's a sample **README.md** for your project:
 
 ```markdown
 # Developer Tools Hub
@@ -78,16 +77,14 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 💬 Feedback
 
-If you have any feedback or suggestions, feel free to open an issue or reach out to us at [youremail@example.com](mailto:youremail@example.com).
+If you have any feedback or suggestions, feel free to open an issue or reach out to us at [youremail@example.com](mailto:emleons23@gmail.com).
 
 ---
 
 ### Connect with Us
 
-- **Website**: [Developer Tools Hub](http://yourdomain.com)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Website**: [Developer Tools Hub](https://morestuff.online/)
+- **GitHub**: [Your GitHub Profile](https://github.com/emleonstz)
 
 ---
-Thank you for using **Developer Tools Hub**! 😊
-```
+
