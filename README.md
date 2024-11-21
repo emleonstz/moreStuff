@@ -41,7 +41,7 @@ Generate placeholder images with custom dimensions and colors.
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](assets/home-page.png)
+![Home Page](https://morestuff.online/public/assets/Screenshot_20241121_120226.png)
 
 ### Tools Section
 ![Tools Section](assets/tools-section.png)
