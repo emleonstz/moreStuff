@@ -1,10 +1,6 @@
-
-```markdown
 # Developer Tools Hub
 
 MoreStuff offers a variety of API responses designed to boost developers' productivity.
-
-
 
 ---
 
@@ -26,7 +22,7 @@ MoreStuff offers a variety of API responses designed to boost developers' produc
 
 ### 🔐 Encryption Key Generator
 Generate secure encryption keys with customizable lengths and formats.  
-
+**Documentation:** [Key Generator Docs](https://morestuff.online/public/key-data/docs)
 
 ### 👤 Dummy API Generator
 Easily generate user-related data for testing purposes.  
@@ -39,10 +35,6 @@ Fill your content with realistic dummy text for visual representation.
 ### 🖼️ Image Placeholder Generator
 Generate placeholder images with custom dimensions and colors.  
 **Documentation:** [Image Generator Docs](https://morestuff.online/public/img-data/docs)
-
-### 🖼️ Encryption Key Generator
-Generate encryption keys in multiple formats for your secure applications.  
-**Documentation:** [Key Generator Docs](https://morestuff.online/public/key-data/docs)
 
 ---
 
@@ -63,6 +55,7 @@ Generate encryption keys in multiple formats for your secure applications.
 - **APIs**: Custom endpoints for various developer tools
 - **Hosting**: Your preferred server (e.g., Apache, Nginx)
 
+---
 
 ## 📄 License
 
@@ -72,14 +65,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 💬 Feedback
 
-If you have any feedback or suggestions, feel free to open an issue or reach out to us at [youremail@example.com](mailto:emleons23@gmail.com).
+If you have any feedback or suggestions, feel free to open an issue or reach out to us at [emleons23@gmail.com](mailto:emleons23@gmail.com).
 
 ---
 
 ### Connect with Us
 
 - **Website**: [Developer Tools Hub](https://morestuff.online/)
-- **GitHub**: [Your GitHub Profile](https://github.com/emleonstz)
+- **GitHub**: [GitHub Profile](https://github.com/emleonstz)
 
 ---
-
