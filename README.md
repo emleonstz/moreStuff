@@ -1,7 +1,7 @@
 # MoreStuff
 
 MoreStuff offers a variety of API responses designed to boost developers' productivity.
-
+- **Website**: [MoreStuff](https://morestuff.online/)
 ---
 
 ## 🛠️ Tools
