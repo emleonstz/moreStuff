@@ -53,7 +53,6 @@ Generate placeholder images with custom dimensions and colors.
 - **Frontend**: Tailwind CSS, HTML5
 - **Backend**: CodeIgniter 4 (PHP Framework)
 - **APIs**: Custom endpoints for various developer tools
-- **Hosting**: Your preferred server (e.g., Apache, Nginx)
 
 ---
 
