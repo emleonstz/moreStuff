@@ -44,8 +44,8 @@ Generate placeholder images with custom dimensions and colors.
 **Documentation:** [Image Generator Docs](https://morestuff.online/public/img-data/docs)
 
 ### 🖼️ Encryption Key Generator
-Generate placeholder images with custom dimensions and colors.  
-**Documentation:** [Image Generator Docs](https://morestuff.online/public/key-data/docs)
+Generate encryption keys in multiple formats for your secure applications.  
+**Documentation:** [Key Generator Docs](https://morestuff.online/public/key-data/docs)
 
 ---
 
