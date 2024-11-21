@@ -2,7 +2,7 @@
 ```markdown
 # Developer Tools Hub
 
-Welcome to **Developer Tools Hub**, your one-stop platform for essential tools tailored to simplify developers' workflows. From encryption key generators to dummy data APIs, our tools are designed to empower developers and boost productivity.
+MoreStuff offers a variety of API responses designed to boost developers' productivity.
 
 ![Banner](assets/banner.png)
 
