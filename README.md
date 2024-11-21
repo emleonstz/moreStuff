@@ -1,4 +1,4 @@
-# Developer Tools Hub
+# MoreStuff
 
 MoreStuff offers a variety of API responses designed to boost developers' productivity.
 
@@ -71,7 +71,7 @@ If you have any feedback or suggestions, feel free to open an issue or reach out
 
 ### Connect with Us
 
-- **Website**: [Developer Tools Hub](https://morestuff.online/)
+- **Website**: [MoreStuff](https://morestuff.online/)
 - **GitHub**: [GitHub Profile](https://github.com/emleonstz)
 
 ---
