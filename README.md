@@ -4,11 +4,11 @@
 
 MoreStuff offers a variety of API responses designed to boost developers' productivity.
 
-![Banner](assets/banner.png)
+
 
 ---
 
-## 🚀 Features
+## 🛠️ Tools
 
 - **Encryption Key Generator**  
   Generate secure encryption keys in multiple formats like Hex, Base64, and Binary.
@@ -23,8 +23,6 @@ MoreStuff offers a variety of API responses designed to boost developers' produc
   Generate random placeholder images for design mockups and testing.
 
 ---
-
-## 🛠️ Tools
 
 ### 🔐 Encryption Key Generator
 Generate secure encryption keys with customizable lengths and formats.  
