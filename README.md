@@ -2,6 +2,15 @@
 
 MoreStuff offers a variety of API responses designed to boost developers' productivity.
 - **Website**: [MoreStuff](https://morestuff.online/)
+- # API Documentation
+
+## RapidAPI
+
+This API is also available on RapidAPI. You can access it via the link below:
+
+[MoreStuff API on RapidAPI](https://rapidapi.com/emleonstz/api/morestuff)
+
+
 ---
 
 ## 🛠️ Tools
